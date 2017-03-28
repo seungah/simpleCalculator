@@ -16,13 +16,13 @@
         />
     <EditText
          android:id="@+id/edit_first"
-         android:layout_width="50dp"
+         android:layout_width="150dp"
          android:layout_height="wrap_content"
          android:text=" 정수값 입력"
     />
     <EditText
         android:id="@+id/edit_second"
-        android:layout_width="50dp"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:text=" 정수값 입력"
         />
